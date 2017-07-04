@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import movie
 
-# Here to add each of my favorite movies new instance are created everytime 
+#To add each of my favorite movies everytime a new instance are created 
 batman = movie.movie_info("Dark Knight",
                           " Batman has been able to keep a tight lid "
                           "on crime in Gotham City.",
